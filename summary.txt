@@ -1,0 +1,8 @@
+During the simulation i learned that customers wait time changes based on how mant checkers are working.
+The more checkers there were, the less wait time. But, the checkers have more idle time.
+I also learned how to track extra data like how many shoppers were served and the average
+number of items bought.i made changes by increasing the number of items shoppers could buy
+by adjusting the number of checkers and see how it affected the results. I added extra data to find 
+how many shopers were served and the average number of items they bought.
+Based on the assumptions in the code, such as shoppers arriving every 2 minutes, shoppting time depending on the number of tems, and checkers ringing up to 10 items per 
+minute, i would reccomend having enough checkers to keep wait times low without creating too much idle time. Around 5 to 8 checkers.
